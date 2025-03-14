@@ -8,5 +8,5 @@ the role of this repo is to record the leet-code problem solutions, which includ
 ---
 
 ### Dynamic Programming
-![Logest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=problem-list-v2&envId=dynamic-programming)
+[Logest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=problem-list-v2&envId=dynamic-programming)
 
