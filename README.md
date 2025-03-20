@@ -9,6 +9,8 @@ the role of this repo is to record the leet-code problem solutions, which includ
 
 ## two - pointer
 [zigzag conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+- [#2 description](https://github.com/kihoon71/leet_code_practice/issues/2)
+- [solution]()
 
 ### Dynamic Programming
 
