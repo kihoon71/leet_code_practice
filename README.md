@@ -7,6 +7,9 @@ the role of this repo is to record the leet-code problem solutions, which includ
 ## list
 ---
 
+## two - pointer
+[zigzag conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+
 ### Dynamic Programming
 
 [Logest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=problem-list-v2&envId=dynamic-programming)  
